@@ -74,7 +74,7 @@ public class TestMultiplication {
 		assertEquals(expectedANS, actualANS);
 	}
 
-	//@Test
+	@Test
 	public void testMultiplicationThreeNumberArrayList() {
 		// Test three number multiplications
                 int a = 3;
@@ -95,7 +95,7 @@ public class TestMultiplication {
 		assertEquals(expectedANS, actualANS);
 	}
 
-	//@Test
+	@Test
 	public void testMultiplicationOneNumberArrayList() {
 		// Test one number multiplications, complete test coverage to 100%
                 int a = 5;
